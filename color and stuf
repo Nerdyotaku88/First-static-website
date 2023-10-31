@@ -1,0 +1,16 @@
+body {
+  background-color: olive
+}
+p{
+  color:black;
+}
+h1{
+  color:orange;
+}
+
+img{
+  height: 100px;
+}
+h2{
+  color: orange
+}
